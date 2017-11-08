@@ -1,0 +1,7 @@
+\\Mac\Dropbox\Projects\SplitCSV\SplitCSV\SplitCSV\bin\Debug\SplitCSV.exe.config
+\\Mac\Dropbox\Projects\SplitCSV\SplitCSV\SplitCSV\bin\Debug\SplitCSV.exe
+\\Mac\Dropbox\Projects\SplitCSV\SplitCSV\SplitCSV\bin\Debug\SplitCSV.pdb
+\\Mac\Dropbox\Projects\SplitCSV\SplitCSV\SplitCSV\obj\Debug\SplitCSV.csprojResolveAssemblyReference.cache
+\\Mac\Dropbox\Projects\SplitCSV\SplitCSV\SplitCSV\obj\Debug\SplitCSV.csproj.CoreCompileInputs.cache
+\\Mac\Dropbox\Projects\SplitCSV\SplitCSV\SplitCSV\obj\Debug\SplitCSV.exe
+\\Mac\Dropbox\Projects\SplitCSV\SplitCSV\SplitCSV\obj\Debug\SplitCSV.pdb
